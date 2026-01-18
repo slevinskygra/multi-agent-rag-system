@@ -299,7 +299,7 @@ The repository includes four classic literary works:
 3. **The Iliad** (Homer) - Ancient Greek epic of the Trojan War
 4. **Frankenstein** (Mary Shelley) - Gothic novel on creation and responsibility
 
-These demonstrate the system's ability to handle diverse literary and philosophical content.
+These demonstrate the system's ability to handle and digest diverse documents. Originally used to obtain and cite information from a vast source of scientific papers in a local repository. 
 
 ## 🔧 Troubleshooting
 
